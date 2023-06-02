@@ -1,6 +1,6 @@
 ORANGE BANK FINANCIAL CALCULATOR
 
-Welcome to Orange Bank Financial Calculator! This program allows users to access two different financial calculators: an investment calculator and a bond calculator. With these calculators, users can calculate the amount of interest they will earn on their investment or the amount of money they have to pay back monthly on a home loan.
+This program allows users to access two different financial calculators: an investment calculator and a bond calculator. With these calculators, users can calculate the amount of interest they will earn on their investment or the amount of money they have to pay back monthly on a home loan.
 
 TABLE OF CONTENTS
 1. Installation
